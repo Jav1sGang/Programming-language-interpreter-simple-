@@ -1,0 +1,8 @@
+print("Welcome to the simple programming language interpreter!")
+print("Enter your program below:")
+
+# Get the user's program as input
+program = input()
+
+# Execute the program
+exec(program)
